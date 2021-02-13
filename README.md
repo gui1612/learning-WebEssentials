@@ -4,7 +4,7 @@ This is a small website project I made to self learn html and css basics. Since 
 
 For this project I only used Html and Css and made the templates from scratch
 
-If you want to check the project actual status click on [here](https://rawcdn.githack.com/gui1612/learning-WebEssentials/1a51a38eb65085fc88b0077e2b3176ae7341cebe/main.html)!
+If you want to check the project actual status click on [here](https://rawcdn.githack.com/gui1612/learning-WebEssentials/e43cc6d80d840a7212c9ad5e15eb311c9b360ae9/main.html)!
 
 Even though it is not a serious project I plan to make further improvements before I'm finished with it:
 
